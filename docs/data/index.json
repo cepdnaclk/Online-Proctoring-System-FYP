@@ -1,17 +1,18 @@
 {
     "title": "Ensuring Academic Integrity of Online Examinations",
-    "team": [{
-            "name": "Mohamed Irfan ",
-            "email": "irfanmm96@gmail.com",
-            "eNumber": "E/15/138",
+    "team": [
+        {
+            "name": "Mohamed Aslam",
+            "email": "muhammadh.aslamm@gmail.com",
+            "eNumber": "E/15/021",
             "github_profile": "#",
             "linkedin_profile": "#",
             "researchgate_profile": "#"
         },
         {
-            "name": "Mohamed Aslam",
-            "email": "muhammadh.aslamm@gmail.com",
-            "eNumber": "E/15/021",
+            "name": "Mohamed Irfan ",
+            "email": "irfanmm96@gmail.com",
+            "eNumber": "E/15/138",
             "github_profile": "#",
             "linkedin_profile": "#",
             "researchgate_profile": "#"
