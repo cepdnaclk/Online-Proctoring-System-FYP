@@ -38,7 +38,7 @@ iframe {
 - Mr. Mohamed Fawzan, [fawzanm@gmail.com](mailto:fawzanm@gmail.com)
 
 <div class="check">
-<iframe height="100%" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
+<iframe height="100" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
 </div>
 
 - [Project Repository](https://github.com/cepdnaclk/e15-4yp-online-proctoring-system)
