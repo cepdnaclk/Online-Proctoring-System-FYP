@@ -28,17 +28,17 @@ iframe {
 
 #### Team
 
-- E/15/138, Mohamed Irfan, [email](mailto:irfanmm96@gmail.com)
-- E/15/021, Mohamed Aslam, [email](mailto:e15021@ce.pdn.ac.lk)
+- E/15/138, Mohamed Irfan, [irfanmm96@gmail.com](mailto:irfanmm96@gmail.com)
+- E/15/021, Mohamed Aslam, [e15021@ce.pdn.ac.lk](mailto:e15021@ce.pdn.ac.lk)
 
 #### Supervisors
 
-- Dr. Ziyan Maraikar, [email](mailto:ziyanm@eng.pdn.ac.lk)
-- Dr. Upul Jayasinghe, [email](mailto:upuljm@eng.pdn.ac.lk)
-- Mr. Mohamed Fawzan, [email](mailto:fawzanm@gmail.com)
+- Dr. Ziyan Maraikar, [ziyanm@eng.pdn.ac.lk](mailto:ziyanm@eng.pdn.ac.lk)
+- Dr. Upul Jayasinghe, [upuljm@eng.pdn.ac.lk](mailto:upuljm@eng.pdn.ac.lk)
+- Mr. Mohamed Fawzan, [fawzanm@gmail.com](mailto:fawzanm@gmail.com)
 
 <div class="check">
-<iframe style="width:100% ; height: 100%" height="100%" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
+<iframe height="100%" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
 </div>
 
 - [Project Repository](https://github.com/cepdnaclk/e15-4yp-online-proctoring-system)
