@@ -23,6 +23,10 @@ iframe {
  height : 100000px
 }
 
+.c53{
+  padding : 0 !important
+}
+
   </style>
 # Online Exam Proctoring System
 
