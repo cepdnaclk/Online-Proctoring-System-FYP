@@ -9,6 +9,17 @@ title:
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
+<style>
+  body, html { width:100% ;
+    height:100% ;
+    overflow:hidden ;
+}
+
+iframe { width:100% ;
+        height:100% ;
+    border:none ;
+}
+  </style>
 # Online Exam Proctoring System
 
 #### Team
@@ -22,7 +33,7 @@ title:
 - Dr. Upul Jayasinghe, [email](mailto:upuljm@eng.pdn.ac.lk)
 - Mr. Mohamed Fawzan, [email](mailto:fawzanm@gmail.com)
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
+<iframe style="width:100% ; height: 100%" height="100%" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
 
 - [Project Repository](https://github.com/cepdnaclk/e15-4yp-online-proctoring-system)
 - [Project Page](https://cepdnaclk.github.io/e15-4yp-online-proctoring-system)
