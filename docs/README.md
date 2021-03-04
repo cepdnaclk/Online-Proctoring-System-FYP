@@ -12,13 +12,17 @@ title:
 <style>
   body, html { width:100% ;
     height:100% ;
-    overflow:hidden ;
 }
 
-iframe { width:100% ;
-        height:100% ;
-    border:none ;
+iframe {
+   display: block;
+ width: 100%;
+ border: none;
+ overflow-y: auto;
+ overflow-x: hidden;
+ height : 100000px
 }
+
   </style>
 # Online Exam Proctoring System
 
@@ -33,7 +37,9 @@ iframe { width:100% ;
 - Dr. Upul Jayasinghe, [email](mailto:upuljm@eng.pdn.ac.lk)
 - Mr. Mohamed Fawzan, [email](mailto:fawzanm@gmail.com)
 
+<div class="check">
 <iframe style="width:100% ; height: 100%" height="100%" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
+</div>
 
 - [Project Repository](https://github.com/cepdnaclk/e15-4yp-online-proctoring-system)
 - [Project Page](https://cepdnaclk.github.io/e15-4yp-online-proctoring-system)
