@@ -42,7 +42,7 @@ iframe {
 - Mr. Mohamed Fawzan, [fawzanm@gmail.com](mailto:fawzanm@gmail.com)
 
 <div class="check">
-<iframe height="100" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
+<iframe id="iframe" height="100" src="https://docs.google.com/document/d/e/2PACX-1vRPtX3sbVeqdvJUPUHECMFG9HPmCBM3JcxJawfcwni_JrcjM_jmQXvF37p76w1JBhLG29zkDImVqLIG/pub?embedded=true"></iframe>
 </div>
 
 - [Project Repository](https://github.com/cepdnaclk/e15-4yp-online-proctoring-system)
@@ -52,3 +52,12 @@ iframe {
 
 [//]: # "Please refer this to learn more about Markdown syntax"
 [//]: # "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+
+
+<script>
+
+window.onload = function(){
+  console.log('loaded');
+  $("#iframe").contents().find("body").attr("style","padding:0");
+}
+ </script>
